@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="sun.java2d.pipe.hw.AccelTypedVolatileImage"/>
+    <fullyQualifiedTypeName name="entities.Account"/>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.phases.common.ConditionalEliminationPhase.Instance"/>
+    <fullyQualifiedTypeName name="entities.BusinessAccount"/>
+    <fullyQualifiedTypeName name="entities.SavingsAccount"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="entities.OutsourcedEmployee"/>
+    <fullyQualifiedTypeName name="entities.Employee"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="entities.ImportedProduct"/>
+    <fullyQualifiedTypeName name="entities.Product"/>
+    <fullyQualifiedTypeName name="entities.UsedProduct"/>
+    <fullyQualifiedTypeName name="entities.Person"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="entities.individualPerson"/>
+    <fullyQualifiedTypeName name="entities.companyPerson"/>
+</qualifiedTypeNameHistroy>

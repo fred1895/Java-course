@@ -1,0 +1,11 @@
+package entities;
+
+public class SavingsAccount {
+	public Double interestRate;
+	
+	public SavingsAccount() {
+		super();
+	}
+	
+	
+}

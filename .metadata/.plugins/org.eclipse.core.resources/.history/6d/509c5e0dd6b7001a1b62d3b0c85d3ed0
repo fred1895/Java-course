@@ -1,0 +1,5 @@
+package contract_enum;
+
+public enum WorkerLevel {
+
+}
